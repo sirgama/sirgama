@@ -15,19 +15,19 @@
  
 </p><br><br>
 
-- 🔭 I’m interested in learning **Game Development with Unity**
+- 🔭 I’m interested in collaborating on **Game Development with Unity**
 
 - 🌱 I’m currently pursuing **Full-Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [Github](https://sirgama.github.io/Portfolio-v1.0)
 
-- 📝 I also love writing articles [See some..](https://dev.to/sirgama)
+- 📝 I'm planning to start article writing [Visit my Profile..](https://dev.to/sirgama)
 
-- 💬 **jQuery, Javascript, React.js and cats😼**
+- 💬 **Javascript and Tech😼**
 
 - 📫 Want to reach me? **sirengogamaliel@gmail.com**
 
-- ⚡ Fun fact **I feel like i'm an introvert**
+- ⚡ Fun fact **I'm an introvert**, or maybe it's not fun:)
 
 
 <br><br><br>
