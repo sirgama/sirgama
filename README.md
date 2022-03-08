@@ -23,9 +23,9 @@
 
 - 📝 I'm planning to start article writing [Visit my Profile..](https://dev.to/sirgama)
 
-- 💬 **Javascript and Tech😼**
+- 💬 **Javascript and Everything Tech**
 
-- 📫 Want to reach me? **sirengogamaliel@gmail.com**
+- 📫 Business talk? **sirgama@protonmail.ch**
 
 - ⚡ Fun fact **I'm an introvert**, or maybe it's not fun:)
 
