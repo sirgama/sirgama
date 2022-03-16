@@ -23,7 +23,7 @@
 
 - 💬 **Everything Tech**
 
-- 📫 Business talk? **sirgama@protonmail.ch**
+- 📫 Tech talk? **sirgama@protonmail.ch**
 
 - ⚡ Fun fact **I'm an introvert**, or maybe it's not fun:)
 
