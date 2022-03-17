@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently pursuing **Full-Stack Web Development in Moringa School**
 <!-- - 👨‍💻 All of my projects are available at [Github](https://sirgama.github.io/Portfolio-v1.0) -->
-- 📝 I'm planning to start article writing [Visit my Dev Profile..](https://dev.to/sirgama)
+- 📝 Tech article writing coming soon [Visit my Dev Profile..](https://dev.to/sirgama)
 
 - 💬 **Everything Tech**
 
