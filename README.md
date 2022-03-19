@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Gamaliel Sirengo</h1>
 <h3 align="center">Passionate Front-end Web Developer.</h3>
 
-<p align="left"> ![](https://komarev.com/ghpvc/?username=sirgama&style=for-the-badge&label=No.+of+people+who've+viewed+my+profile) </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirgama&style=for-the-badge&label=No.+of+people+who've+viewed+my+profile" alt="profile views"/> </p>
 
 <p align="right"> </p>
 <h3 align="center">Connect with me:</h3>
