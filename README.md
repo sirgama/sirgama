@@ -6,7 +6,7 @@
 <p align="right"> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/sirgama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sirgama" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/sirgama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sirgama" height="30" width="40" /></a> -->
 <a href="https://dev.to/sirgama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sirgama" height="30" width="40" /></a>
 <a href="https://twitter.com/sir__gama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sir__gama" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sirgama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sirgama" height="30" width="40" /></a>
