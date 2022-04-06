@@ -10,7 +10,7 @@
 <a href="https://dev.to/sirgama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sirgama" height="30" width="40" /></a>
 <a href="https://twitter.com/sir__gama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sir__gama" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sirgama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sirgama" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15053785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15053785" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/15053785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15053785" height="30" width="40" /></a>-->
 <a href="https://instagram.com/sir_gamaliel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sir_gamaliel" height="30" width="40" /></a>
  
 </p><br><br>
