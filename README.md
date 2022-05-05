@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Gamaliel Sirengo</h1>
 <h3 align="center">Full-Stack Web Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirgama&style=for-the-badge&label='Views' alt="profile&views"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirgama&style=for-the-badge&label=Views"/></p>
 
 <p align="right"> </p>
 <h3 align="center">Socials:</h3>
