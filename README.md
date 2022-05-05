@@ -1,10 +1,10 @@
 <h1 align="center">Hi👋, I'm Gamaliel Sirengo</h1>
-<h3 align="center">Full Stack Web Developer.</h3>
+<h3 align="center">Full-Stack Web Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirgama&style=for-the-badge&label="" alt="profile&views"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirgama&style=for-the-badge&label='Views' alt="profile&views"/></p>
 
 <p align="right"> </p>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Socials:</h3>
 <p align="center">
 <!-- <a href="https://codepen.io/sirgama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sirgama" height="30" width="40" /></a> -->
 <a href="https://dev.to/sirgama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sirgama" height="30" width="40" /></a>
