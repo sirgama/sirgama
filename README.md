@@ -19,12 +19,12 @@
 
 - 🌱 I’m currently pursuing **Full-Stack Web Development in Moringa School**
 <!-- - 👨‍💻 All of my projects are available at [Github](https://sirgama.github.io/Portfolio-v1.0) -->
-
-- 💬 **Everything Tech**
+<!-- 
+- 💬 **Everything Tech** -->
 
 - 📫 Tech talk? **sirgama@protonmail.ch**
 
-- ⚡ Fun fact **I'm an introvert**, or maybe it's not fun:)
+<!-- - ⚡ Fun fact **I'm an introvert**, or maybe it's not fun:) -->
 
 
 <br><br><br>
