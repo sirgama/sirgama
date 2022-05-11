@@ -1,8 +1,9 @@
 <h1 align="center">Hi👋, I'm Gamaliel Sirengo</h1>
 <h3 align="center">Full-Stack Web Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirgama&style=for-the-badge&label=Views"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirgama&style=for-the-badge&label=Profile%20Views"/></p>
 <a href="https://wakatime.com/@6f32531c-24ae-4645-900d-d2d5fede74a4"><img src="https://wakatime.com/badge/user/6f32531c-24ae-4645-900d-d2d5fede74a4.svg" alt="Total time coded since Mar 24 2022" /></a>
+<h3 align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirgama&theme=tokyonight&" alt="sirgama" /></h3>
 
 <p align="right"> </p>
 <h3 align="center">Socials:</h3>
