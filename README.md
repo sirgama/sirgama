@@ -18,9 +18,10 @@
 
 <h4 align="left">Github Stats</h4><hr>
 
-<h3 align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirgama&theme=tokyonight&" alt="sirgama" /><p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirgama&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sirgama" /></p>
+<h3 align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirgama&theme=tokyonight&" alt="sirgama" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirgama&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sirgama" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirgama&show_icons=true&theme=tokyonight&locale=en" alt="sirgama" /></p></h3>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirgama&show_icons=true&theme=tokyonight&locale=en" alt="sirgama" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirgama" alt="sirgama" /></a> </h3>
 
 <p align="right"> </p> <hr>
 
