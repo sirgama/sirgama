@@ -1,5 +1,6 @@
 <h1 align="center">Hi👋, I'm Gamaliel Sirengo</h1>
-<h3 align="center">Full-Stack Web Developer.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirgama&style=for-the-badge&label=Profile%20Views"/></p>
+<a href="https://wakatime.com/@6f32531c-24ae-4645-900d-d2d5fede74a4"><img src="https://wakatime.com/badge/user/6f32531c-24ae-4645-900d-d2d5fede74a4.svg" alt="Total time coded since Mar 24 2022" /></a><h3 align="center">Full-Stack Web Developer.</h3>
 <h3 align="center">Socials:</h3>
 <p align="center">
 <!-- <a href="https://codepen.io/sirgama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sirgama" height="30" width="40" /></a> -->
@@ -11,8 +12,7 @@
  
 </p><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirgama&style=for-the-badge&label=Profile%20Views"/></p>
-<a href="https://wakatime.com/@6f32531c-24ae-4645-900d-d2d5fede74a4"><img src="https://wakatime.com/badge/user/6f32531c-24ae-4645-900d-d2d5fede74a4.svg" alt="Total time coded since Mar 24 2022" /></a>
+
 
 <h4 align="left">Github Stats</h4><hr>
 
