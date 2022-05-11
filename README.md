@@ -1,33 +1,53 @@
-<h1 align="center">Hi👋, I'm Gamaliel Sirengo</h1>
-<h3 align="center">Full-Stack Developer</h3>
-
-<img src="https://komarev.com/ghpvc/?username=sirgama&label=Profile%20views&color=0e75b6&style=flat" alt="sirgama" /> 
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi, I'm Gamaliel Sirengo! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Full-Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+<img src="https://komarev.com/ghpvc/?username=sirgama&&style=flat-square" align="center" />
 <a href="https://wakatime.com/@6f32531c-24ae-4645-900d-d2d5fede74a4"><img src="https://wakatime.com/badge/user/6f32531c-24ae-4645-900d-d2d5fede74a4.svg" alt="Total time coded since Mar 24 2022" /></a>
 
-<h2 align="left">Github Stats</h2><hr>
-
-<h3 align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirgama&theme=tokyonight&" alt="sirgama" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirgama&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sirgama" />
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirgama&show_icons=true&theme=tokyonight&locale=en" alt="sirgama" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirgama&theme=tokyonight" alt="sirgama" /></a> </h3>
-
-<p align="right"> </p> <hr>
+[![Twitter Follow](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=sirgama)
+[![Linkedin: sirgama](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/sirgama/)
+![GitHub followers](https://img.shields.io/github/followers/sirgama?label=Follow&style=social)
+[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/sirgama/)
+[![Dev.To: sirgama](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://www.dev.to/sirgama/)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p><hr>
+### 📫 Like to meet me?
 
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<br><br><br>
+<a href="https://calendly.com/sirgama/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Abit more about me...  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirgama&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sirgama" /></p>
+```javascript
+const sirgama = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python"],
+    askMeAbout: ["web dev", "tech", "app dev", "gaming", "Tesla"],
+    technologies: {
+        backEnd: {
+            js: ["Django", "Flask", "Node"],
+        },
+        mobileApp: {
+            crossPlatform: ["Android Development"]
+        },
+        devOps: ["GCP", "Nginx"],
+        databases: ["Postgres", "MySql", "sqlite"],
+        misc: ["Firebase", "IT-Support", "React", "open-cv"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Building python bots to fasten repetitive tasks",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirgama&show_icons=true&theme=tokyonight&locale=en" alt="sirgama" /></p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I would love to connect with different people</b> so if you want to say <b>hi, I'll be happy to connect!</b> 😊</em>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirgama&theme=tokyonight&" alt="sirgama" /></p>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21thkcojvzpvx6vblxqnhxchy&cover_image=true&theme=default&bar_color_cover=false" /></div> 
 
-<h3 align="left">I stay up all night, You can as well:</h3>
-<p><a href="https://www.buymeacoffee.com/sirgamaliel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sirgamaliel" /></a></p><br><br><br><br>
+
+
+
