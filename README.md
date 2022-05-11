@@ -46,6 +46,10 @@ const sirgama = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I would love to connect with different people</b> so if you want to say <b>hi, I'll be happy to connect!</b> 😊</em>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21thkcojvzpvx6vblxqnhxchy&cover_image=true&theme=default&bar_color_cover=false" /></div> 
 
 
