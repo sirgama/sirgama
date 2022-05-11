@@ -1,22 +1,10 @@
 <h1 align="center">Hi👋, I'm Gamaliel Sirengo</h1>
-<h3 align="center">Full-Stack Web Developer.</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <img src="https://komarev.com/ghpvc/?username=sirgama&label=Profile%20views&color=0e75b6&style=flat" alt="sirgama" /> 
 <a href="https://wakatime.com/@6f32531c-24ae-4645-900d-d2d5fede74a4"><img src="https://wakatime.com/badge/user/6f32531c-24ae-4645-900d-d2d5fede74a4.svg" alt="Total time coded since Mar 24 2022" /></a>
-<h3 align="center">Socials:</h3>
-<p align="center">
-<!-- <a href="https://codepen.io/sirgama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sirgama" height="30" width="40" /></a> -->
-<a href="https://dev.to/sirgama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sirgama" height="30" width="40" /></a>
-<a href="https://twitter.com/sir__gama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sir__gama" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sirgama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sirgama" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/15053785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15053785" height="30" width="40" /></a>-->
-<a href="https://instagram.com/sir_gamaliel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sir_gamaliel" height="30" width="40" /></a>
- 
-</p><br><br>
 
-
-
-<h4 align="left">Github Stats</h4><hr>
+<h2 align="left">Github Stats</h2><hr>
 
 <h3 align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirgama&theme=tokyonight&" alt="sirgama" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirgama&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sirgama" />
 
