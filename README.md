@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirgama&style=for-the-badge&label=Profile%20Views"/></p>
 <a href="https://wakatime.com/@6f32531c-24ae-4645-900d-d2d5fede74a4"><img src="https://wakatime.com/badge/user/6f32531c-24ae-4645-900d-d2d5fede74a4.svg" alt="Total time coded since Mar 24 2022" /></a>
-<h3 align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirgama&theme=tokyonight&" alt="sirgama" /></h3>
+<h3 align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirgama&theme=tokyonight&" alt="sirgama" /><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirgama&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sirgama" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirgama&show_icons=true&theme=tokyonight&locale=en" alt="sirgama" /></p></h3>
 
 <p align="right"> </p>
 <h3 align="center">Socials:</h3>
