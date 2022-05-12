@@ -32,17 +32,20 @@ const sirgama = {
     askMeAbout: ["web dev", "tech", "app dev", "gaming", "Tesla"],
     technologies: {
         backEnd: {
-            js: ["Django", "Flask", "Node"],
+            py: ["Django", "Flask"],
+        },
+        frontEnd: {
+            js: ["Angular", "React"],
         },
         mobileApp: {
-            crossPlatform: ["Android Development"]
+            crossPlatform: ["React Native"]
         },
         devOps: ["GCP", "Nginx"],
         databases: ["Postgres", "MySql", "sqlite"],
         misc: ["Firebase", "IT-Support", "React", "open-cv"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building python bots to fasten repetitive tasks",
+    currentFocus: "level up my skills on professional system design",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
