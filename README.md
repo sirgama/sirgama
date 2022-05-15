@@ -21,6 +21,7 @@
 
 <h2 align="center">Github Stats</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirgama&theme=tokyonight&" alt="sirgama" /></p><hr>
+<a href="http://www.github.com/Clemo97"><img src="https://activity-graph.herokuapp.com/graph?username=sirgama&&theme=tokyonight&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Abit more about me...  
