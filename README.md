@@ -12,7 +12,7 @@
 [![Dev.To: sirgama](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://www.dev.to/sirgama/)
 
 
-### 📫 Love to meet up?
+### 📫 Love to meet?
 
 
 
@@ -30,7 +30,7 @@
 const sirgama = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev", "gaming", "Tesla"],
+    askMeAbout: ["web dev", "tech", "Unity3D", "gaming", "Tesla"],
     technologies: {
         backEnd: {
             py: ["Django", "Flask"],
@@ -42,7 +42,7 @@ const sirgama = {
             crossPlatform: ["React Native"]
         },
         devOps: ["GCP", "Nginx"],
-        databases: ["Postgres", "MySql", "sqlite"],
+        databases: ["Postgres", "MySql", "SQLite"],
         misc: ["Firebase", "IT-Support", "React", "open-cv"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
