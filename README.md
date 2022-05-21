@@ -53,9 +53,6 @@ const sirgama = {
 
 
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21thkcojvzpvx6vblxqnhxchy&cover_image=true&theme=default&bar_color_cover=false" /></div> 
 
