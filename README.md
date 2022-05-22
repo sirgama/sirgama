@@ -12,7 +12,7 @@
 [![Dev.To: sirgama](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://www.dev.to/sirgama/)
 
 
-### 📫 Love to meet?
+### 📫 Love to connect?
 
 
 
