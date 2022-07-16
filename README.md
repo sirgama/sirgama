@@ -41,12 +41,12 @@ const sirgama = {
         mobileApp: {
             crossPlatform: ["React Native"]
         },
-        devOps: ["GCP", "Nginx"],
-        databases: ["Postgres", "MySql", "SQLite"],
-        misc: ["Firebase", "IT-Support", "React", "open-cv"]
+        devOps: ["GCP"],
+        databases: ["Postgres","SQLite"],
+        misc: ["Firebase", "IT Support", "React", "open-cv"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "level up my skills on professional system design",
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "level up my skills on User Experience",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
