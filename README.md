@@ -39,7 +39,7 @@ const sirgama = {
             js: ["Angular", "React"],
         },
         mobileApp: {
-            crossPlatform: ["React Native"]
+            crossPlatform: ["React-Native"]
         },
         devOps: ["GCP"],
         databases: ["Postgres","SQLite"],
