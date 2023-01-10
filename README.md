@@ -29,24 +29,24 @@
 const sirgama = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python"],
-    askMeAbout: ["web dev", "tech", "Unity3D", "gaming", "Tesla"],
+    askMeAbout: ["tech", "Unity3D", "gaming", "Mods"],
     technologies: {
         backEnd: {
             py: ["Django", "Flask"],
         },
         frontEnd: {
-            js: ["Angular", "React"],
+            js: ["Reactjs", "Nextjs"],
         },
         mobileApp: {
             crossPlatform: ["React-Native"]
         },
         devOps: ["GCP"],
-        databases: ["Postgres","SQLite"],
-        misc: ["Firebase", "IT Support", "React", "open-cv"]
+        databases: ["Postgres","Mongo"],
+        misc: ["Firebase", "Supabase", "CircleCi", "Puppetier"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentFocus: "level up my skills on User Experience",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["PWA", "SPA"],
+    currentFocus: "Everything Frontend",
+    funFact: "I don't have an amazing social life, so should you!"
 };
 ```
 
