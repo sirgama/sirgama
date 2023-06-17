@@ -27,12 +27,11 @@
 
 ```javascript
 const sirgama = {
-    pronouns: "He" | "Him",
+    
     code: ["Javascript", "Python"],
-    askMeAbout: ["tech", "Unity3D", "gaming", "Mods"],
     technologies: {
         backEnd: {
-            py: ["Django", "Flask"],
+            py: ["Django"],
         },
         frontEnd: {
             js: ["Reactjs", "Nextjs"],
@@ -45,8 +44,8 @@ const sirgama = {
         misc: ["Firebase", "Supabase", "CircleCi", "Puppetier"]
     },
     architecture: ["PWA", "SPA"],
-    currentFocus: "Everything Frontend",
-    funFact: "I don't have an amazing social life, so should you!"
+    currentFocus: "Sokohub Africa",
+    funFact: "An apple a day keeps Samsung away!"
 };
 ```
 
