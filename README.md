@@ -1,14 +1,12 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi, I'm sirgama! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 <p><em>Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <img src="https://komarev.com/ghpvc/?username=sirgama&&style=flat-square" align="center" />
 <a href="https://wakatime.com/@6f32531c-24ae-4645-900d-d2d5fede74a4"><img src="https://wakatime.com/badge/user/6f32531c-24ae-4645-900d-d2d5fede74a4.svg" alt="Total time coded since Mar 24 2022" /></a>
 
 [![Twitter Follow](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sirgama_)
-![GitHub followers](https://img.shields.io/github/followers/sirgama?label=Follow&style=social)
 [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sirgama.dev/)
-[![Telegram](https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sirgama/)
+[![Telegram](https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sirgama/)
 [![Dev.To: sirgama](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://www.dev.to/sirgama/)
 
 
